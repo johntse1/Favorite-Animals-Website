@@ -17,11 +17,13 @@ button{
     height: 250px;
     background-size: cover;
 }
+/*This is the Alpaca section*/
 #alpaca{
     background-image: url("animalpix/alpaca.jpg");
 }
 #alpacapageheader{
     text-align: center;
+    font-size: 128px;
 }
 #alpacadiv{
     margin: center;
@@ -29,6 +31,8 @@ button{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #alpaca2pic{
     width: 250px;
@@ -37,11 +41,33 @@ button{
     margin-right: auto;
     display: block;
 }
-#cow{
-    background-image: url("animalpix/cow.jpg");
-}
+/*This is the Axolotl section*/
 #axolotl{
     background-image: url("animalpix/axolotl.jpg");
+}
+#axolotlhead{
+    text-align: center;
+    font-size: 128px;
+}
+#axolotl2pic{
+    width: 250px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#axolotldiv{
+    margin: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*This is the Cow section*/
+#cow{
+    background-image: url("animalpix/cow.jpg");
 }
 #cat{
     background-image: url("animalpix/cat.jpg");
