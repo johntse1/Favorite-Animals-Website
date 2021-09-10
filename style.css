@@ -4,24 +4,40 @@ h1{
 body{
     font-size: larger;
 }
+button{
+    margin:2px;
+    border-radius:10px;
+    color: black;
+    padding: 10px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+}
 #alpaca{
-
+    background-image: url("animalpix/alpaca.jpg");
+}
+#alpacadiv{
+    margin: auto;
 }
 #cow{
-
+    background-image: url("animalpix/cow.jpg");
 }
 #axolotl{
-
+    background-image: url("animalpix/axolotl.jpg");
 }
 #cat{
-
+    background-image: url("animalpix/cat.jpg");
 }
 #dog{
-
+    background-image: url("animalpix/dog.jpg");
 }
 #chuck{
-
+    background-image: url("animalpix/chuckecheeserat.webp");
 }
 #clifford{
-
+    background-image: url("animalpix/clifford.jpg");
 }
