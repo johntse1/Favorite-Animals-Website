@@ -20,8 +20,22 @@ button{
 #alpaca{
     background-image: url("animalpix/alpaca.jpg");
 }
+#alpacapageheader{
+    text-align: center;
+}
 #alpacadiv{
-    margin: auto;
+    margin: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#alpaca2pic{
+    width: 250px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 #cow{
     background-image: url("animalpix/cow.jpg");
