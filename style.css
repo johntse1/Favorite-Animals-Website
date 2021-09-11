@@ -65,7 +65,10 @@ button{
     font-size: 32px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-/*This is the Cat section*/
+/*This is the Cow section*/
+#cow{
+    background-image: url("animalpix/cow.jpg");
+}
 #cat{
     background-image: url("animalpix/cat.jpg");
 }
