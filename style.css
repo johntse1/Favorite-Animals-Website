@@ -112,13 +112,29 @@ button{
     font-size: 32px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-/*This is the Cow section*/
-#cow{
-    background-image: url("animalpix/cow.jpg");
-}
 
 #dog{
     background-image: url("animalpix/dog.jpg");
+}
+#doghead{
+    text-align: center;
+    font-size: 128px;
+}
+#dogdiv{
+    margin: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#dog2pic{
+    width: 250px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 #chuck{
     background-image: url("animalpix/chuckecheeserat.webp");
